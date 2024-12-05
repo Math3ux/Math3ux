@@ -46,9 +46,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Math3ux/Math3ux/output/snake.svg" alt="Snake animation" />
-
-###
